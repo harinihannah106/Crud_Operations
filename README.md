@@ -115,11 +115,3 @@ Or run from your IDE.
 🔹 Deploy online (Render/Railway/AWS)  
 🔹 Upgrade UI to React or Angular  
 
----
-
-### ⭐ Support
-
-If this project helped you, please **⭐ star the repository**!
-
----
-
